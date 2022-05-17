@@ -1,0 +1,5 @@
+project: jbgreenh/lzfse
+target: lzfse
+
+cmds:
+  - cmd: /build/lzfse -encode -i @@
